@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate devops student</h3>
+<h3 align="center">A passionate Data Engineer professional</h3>
 
 - 🔭 I’m currently working on **IN10**
 
